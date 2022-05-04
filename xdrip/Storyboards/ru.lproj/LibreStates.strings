@@ -4,22 +4,22 @@
 /////////////////////////////////////////////////////////////////////////////////////////////
 
 /// Possible Libre Sensor states
-"failure" = "failed";
+"failure" = "неудалось";
 
 /// Possible Libre Sensor states
-"shutdown" = "shut down";
+"shutdown" = "завершить";
 
 /// Possible Libre Sensor states
-"starting" = "starting";
+"starting" = "запущен";
 
 /// Possible Libre Sensor states
-"expired" = "expired";
+"expired" = "истек";
 
 /// general usage
-"unknown" = "unknown";
+"unknown" = "неизвестно";
 
 /// Possible Libre Sensor states
-"ready" = "ready";
+"ready" = "готов";
 
 /// Possible Libre Sensor states
-"notYetStarted" = "not yet started";
+"notYetStarted" = "еще не запущен";
